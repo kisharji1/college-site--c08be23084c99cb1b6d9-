@@ -1,6 +1,6 @@
 {
-  "college": "Your College Name",
-  "code": "REPLACE_WITH_TOKEN",
+  "college": "sri krishna rts and science college",
+  "code": "c08be23084c99cb1b6d9",
   "labs": [
     { "name": "Computer Lab 1", "opens": "09:00", "closes": "11:00" },
     { "name": "Physics Lab", "opens": "11:30", "closes": "13:00" },
